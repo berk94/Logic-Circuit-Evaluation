@@ -2,6 +2,6 @@
 CMPE250_project2_Bogazici_University
 
 Project description is included in the current directory.
-To compile, simply type "make" in the commandline (make sure you are in /Source).
+To compile, simply type "make" in the commandline (make sure you are in /Source). \n
 To run, type "./project2 \<inputfile\> \<outputfile\>".
 
